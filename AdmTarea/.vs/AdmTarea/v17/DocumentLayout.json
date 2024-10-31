@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nelso\\source\\repos\\DemoDevOps\\AdmTarea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|c:\\users\\nelso\\source\\repos\\demodevops\\admtarea\\admtarea.api\\utilitarios\\fotodtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|solutionrelative:admtarea.api\\utilitarios\\fotodtomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|C:\\Users\\nelso\\source\\repos\\DemoDevOps\\AdmTarea\\admtarea.bw\\cu\\gestionarfoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|solutionrelative:admtarea.bw\\cu\\gestionarfoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|C:\\Users\\nelso\\source\\repos\\DemoDevOps\\AdmTarea\\admtarea.bw\\interfaces\\da\\igestionarfotoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|solutionrelative:admtarea.bw\\interfaces\\da\\igestionarfotoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|C:\\Users\\nelso\\source\\repos\\DemoDevOps\\AdmTarea\\admtarea.da\\acciones\\gestionarfotoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|solutionrelative:admtarea.da\\acciones\\gestionarfotoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|C:\\Users\\nelso\\source\\repos\\DemoDevOps\\AdmTarea\\admtarea.bw\\interfaces\\bw\\igestionarfoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B14FD6F-5D21-41FB-9D9B-A4F5F3A550A9}|AdmTarea.BW\\AdmTarea.BW.csproj|solutionrelative:admtarea.bw\\interfaces\\bw\\igestionarfoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|C:\\Users\\nelso\\source\\repos\\DemoDevOps\\AdmTarea\\admtarea.api\\controllers\\fotocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|solutionrelative:admtarea.api\\controllers\\fotocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|C:\\Users\\nelso\\source\\repos\\DemoDevOps\\AdmTarea\\admtarea.api\\dtos\\fotodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2957F957-4A57-4047-B5DD-2EC76C8C4734}|AdmTarea.Api\\AdmTarea.Api.csproj|solutionrelative:admtarea.api\\dtos\\fotodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|C:\\Users\\nelso\\source\\repos\\DemoDevOps\\AdmTarea\\admtarea.da\\entidades\\fotoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758885CA-AEA2-4A9B-B62D-4CC6A8952985}|AdmTarea.DA\\AdmTarea.DA.csproj|solutionrelative:admtarea.da\\entidades\\fotoda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE39068-1626-4761-8B89-B43FE396C871}|AdmTarea.BC\\AdmTarea.BC.csproj|C:\\Users\\nelso\\source\\repos\\DemoDevOps\\AdmTarea\\admtarea.bc\\modelos\\foto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAE39068-1626-4761-8B89-B43FE396C871}|AdmTarea.BC\\AdmTarea.BC.csproj|solutionrelative:admtarea.bc\\modelos\\foto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGestionarFotoDA.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\source\\repos\\DemoDevOps\\AdmTarea\\AdmTarea.BW\\Interfaces\\DA\\IGestionarFotoDA.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BW\\Interfaces\\DA\\IGestionarFotoDA.cs",
+              "ToolTip": "C:\\Users\\nelso\\source\\repos\\DemoDevOps\\AdmTarea\\AdmTarea.BW\\Interfaces\\DA\\IGestionarFotoDA.cs",
+              "RelativeToolTip": "AdmTarea.BW\\Interfaces\\DA\\IGestionarFotoDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:37:40.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestionarFoto.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\source\\repos\\DemoDevOps\\AdmTarea\\AdmTarea.BW\\CU\\GestionarFoto.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BW\\CU\\GestionarFoto.cs",
+              "ToolTip": "C:\\Users\\nelso\\source\\repos\\DemoDevOps\\AdmTarea\\AdmTarea.BW\\CU\\GestionarFoto.cs",
+              "RelativeToolTip": "AdmTarea.BW\\CU\\GestionarFoto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:37:26.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGestionarFoto.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\source\\repos\\DemoDevOps\\AdmTarea\\AdmTarea.BW\\Interfaces\\BW\\IGestionarFoto.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BW\\Interfaces\\BW\\IGestionarFoto.cs",
+              "ToolTip": "C:\\Users\\nelso\\source\\repos\\DemoDevOps\\AdmTarea\\AdmTarea.BW\\Interfaces\\BW\\IGestionarFoto.cs",
+              "RelativeToolTip": "AdmTarea.BW\\Interfaces\\BW\\IGestionarFoto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:36:16.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FotoDTOMapper.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\source\\repos\\DemoDevOps\\AdmTarea\\AdmTarea.Api\\Utilitarios\\FotoDTOMapper.cs",
+              "RelativeDocumentMoniker": "AdmTarea.Api\\Utilitarios\\FotoDTOMapper.cs",
+              "ToolTip": "C:\\Users\\nelso\\source\\repos\\DemoDevOps\\AdmTarea\\AdmTarea.Api\\Utilitarios\\FotoDTOMapper.cs",
+              "RelativeToolTip": "AdmTarea.Api\\Utilitarios\\FotoDTOMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:04:40.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FotoController.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\source\\repos\\DemoDevOps\\AdmTarea\\AdmTarea.Api\\Controllers\\FotoController.cs",
+              "RelativeDocumentMoniker": "AdmTarea.Api\\Controllers\\FotoController.cs",
+              "ToolTip": "C:\\Users\\nelso\\source\\repos\\DemoDevOps\\AdmTarea\\AdmTarea.Api\\Controllers\\FotoController.cs",
+              "RelativeToolTip": "AdmTarea.Api\\Controllers\\FotoController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T19:57:06.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GestionarFotoDA.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\source\\repos\\DemoDevOps\\AdmTarea\\AdmTarea.DA\\Acciones\\GestionarFotoDA.cs",
+              "RelativeDocumentMoniker": "AdmTarea.DA\\Acciones\\GestionarFotoDA.cs",
+              "ToolTip": "C:\\Users\\nelso\\source\\repos\\DemoDevOps\\AdmTarea\\AdmTarea.DA\\Acciones\\GestionarFotoDA.cs",
+              "RelativeToolTip": "AdmTarea.DA\\Acciones\\GestionarFotoDA.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAYwB0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T19:56:04.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FotoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\source\\repos\\DemoDevOps\\AdmTarea\\AdmTarea.Api\\DTOs\\FotoDTO.cs",
+              "RelativeDocumentMoniker": "AdmTarea.Api\\DTOs\\FotoDTO.cs",
+              "ToolTip": "C:\\Users\\nelso\\source\\repos\\DemoDevOps\\AdmTarea\\AdmTarea.Api\\DTOs\\FotoDTO.cs",
+              "RelativeToolTip": "AdmTarea.Api\\DTOs\\FotoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T19:45:54.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FotoDA.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\source\\repos\\DemoDevOps\\AdmTarea\\AdmTarea.DA\\Entidades\\FotoDA.cs",
+              "RelativeDocumentMoniker": "AdmTarea.DA\\Entidades\\FotoDA.cs",
+              "ToolTip": "C:\\Users\\nelso\\source\\repos\\DemoDevOps\\AdmTarea\\AdmTarea.DA\\Entidades\\FotoDA.cs",
+              "RelativeToolTip": "AdmTarea.DA\\Entidades\\FotoDA.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T19:43:12.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Foto.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\source\\repos\\DemoDevOps\\AdmTarea\\AdmTarea.BC\\Modelos\\Foto.cs",
+              "RelativeDocumentMoniker": "AdmTarea.BC\\Modelos\\Foto.cs",
+              "ToolTip": "C:\\Users\\nelso\\source\\repos\\DemoDevOps\\AdmTarea\\AdmTarea.BC\\Modelos\\Foto.cs",
+              "RelativeToolTip": "AdmTarea.BC\\Modelos\\Foto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T19:37:31.276Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

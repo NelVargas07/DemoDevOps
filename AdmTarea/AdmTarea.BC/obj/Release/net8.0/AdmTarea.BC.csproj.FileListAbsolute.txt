@@ -1,0 +1,11 @@
+C:\Users\nelso\OneDrive\Documentos\2024\Lenguajes\AdmTarea\AdmTarea\AdmTarea.BC\bin\Release\net8.0\AdmTarea.BC.deps.json
+C:\Users\nelso\OneDrive\Documentos\2024\Lenguajes\AdmTarea\AdmTarea\AdmTarea.BC\bin\Release\net8.0\AdmTarea.BC.dll
+C:\Users\nelso\OneDrive\Documentos\2024\Lenguajes\AdmTarea\AdmTarea\AdmTarea.BC\bin\Release\net8.0\AdmTarea.BC.pdb
+C:\Users\nelso\OneDrive\Documentos\2024\Lenguajes\AdmTarea\AdmTarea\AdmTarea.BC\obj\Release\net8.0\AdmTarea.BC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelso\OneDrive\Documentos\2024\Lenguajes\AdmTarea\AdmTarea\AdmTarea.BC\obj\Release\net8.0\AdmTarea.BC.AssemblyInfoInputs.cache
+C:\Users\nelso\OneDrive\Documentos\2024\Lenguajes\AdmTarea\AdmTarea\AdmTarea.BC\obj\Release\net8.0\AdmTarea.BC.AssemblyInfo.cs
+C:\Users\nelso\OneDrive\Documentos\2024\Lenguajes\AdmTarea\AdmTarea\AdmTarea.BC\obj\Release\net8.0\AdmTarea.BC.csproj.CoreCompileInputs.cache
+C:\Users\nelso\OneDrive\Documentos\2024\Lenguajes\AdmTarea\AdmTarea\AdmTarea.BC\obj\Release\net8.0\AdmTarea.BC.dll
+C:\Users\nelso\OneDrive\Documentos\2024\Lenguajes\AdmTarea\AdmTarea\AdmTarea.BC\obj\Release\net8.0\refint\AdmTarea.BC.dll
+C:\Users\nelso\OneDrive\Documentos\2024\Lenguajes\AdmTarea\AdmTarea\AdmTarea.BC\obj\Release\net8.0\AdmTarea.BC.pdb
+C:\Users\nelso\OneDrive\Documentos\2024\Lenguajes\AdmTarea\AdmTarea\AdmTarea.BC\obj\Release\net8.0\ref\AdmTarea.BC.dll
